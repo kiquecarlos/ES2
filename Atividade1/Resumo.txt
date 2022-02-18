@@ -1,12 +1,87 @@
 0:00 - 3:30
 
+- modelos de processos de software
+- ordenada
+- modelos diferentes
+- métodos ágeis
+
 3:31 - 5:56
+
+- toda a documentação associada
+- manual do usuário
+- especificação de requisitos
+- qualidade de software
+- usuário espera
+- bom desempenho
+- confiável
+- fácil de manter
+- usabilidade
+
 5:57 - 6:19
+
+- todos os aspectos da produção de software
+- especificação
+- desenvolvimento
+- validação
+- evolução
+
 6:20 - 8:46
+
+- fazer software de uma maneira mais rápida
+- confiável
+- custo de desenvolvimento
+- testes
+
 8:47 - 10:34
+
+- melhorar
+-componentes de software
+- especificação
+- implementação
+- validação
+- evolução
+- não existe uma verdade absoluta
+
 10:35 - 15:59
-16:00 - 17:04
-17:03 - 18:15
+
+- ciclo de vida
+- tradicionais
+-- modelo cascata
+-- incremental
+-- orientado a reuso
+- implementação
+- teste de integração
+
+
+16:00 - 17:03
+
+- projetar o software
+- implementar o software
+- validar o software
+- pessoas
+
+17:04 - 18:15
+
+- requesitos
+- estudo de viabilidade
+- validar com o cliente
+- projetar
+
 18:16 - 19:44
+
+- especificação de requesitos
+- arquitetura do sistema
+- interface
+- componentes
+- diferentes tipos de projeto
+
 19:45 - 20:53
+
+- testes
+- teste de aceitação
+- teste de integração
+
 20:54 - 22:42
+
+- propor mudanças
+- modificar o sistema
